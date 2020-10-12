@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Zadanie\Zadanie\obj\Debug\netcoreapp3.0\Zadanie.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zadanie\Zadanie\obj\Debug\netcoreapp3.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zadanie\Zadanie\obj\Debug\netcoreapp3.0\Zadanie.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zadanie\Zadanie\bin\Debug\netcoreapp3.0\Zadanie.exe
+C:\Users\Admin\source\repos\Zadanie\Zadanie\bin\Debug\netcoreapp3.0\Zadanie.deps.json
+C:\Users\Admin\source\repos\Zadanie\Zadanie\bin\Debug\netcoreapp3.0\Zadanie.runtimeconfig.json
+C:\Users\Admin\source\repos\Zadanie\Zadanie\bin\Debug\netcoreapp3.0\Zadanie.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Zadanie\Zadanie\bin\Debug\netcoreapp3.0\Zadanie.dll
+C:\Users\Admin\source\repos\Zadanie\Zadanie\bin\Debug\netcoreapp3.0\Zadanie.pdb
+C:\Users\Admin\source\repos\Zadanie\Zadanie\obj\Debug\netcoreapp3.0\Zadanie.dll
+C:\Users\Admin\source\repos\Zadanie\Zadanie\obj\Debug\netcoreapp3.0\Zadanie.pdb
